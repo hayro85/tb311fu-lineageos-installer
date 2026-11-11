@@ -1,7 +1,5 @@
 > ⚠️ **PREVIEW / NICHT FÜR UNBEAUFSICHTIGTES FLASHEN:** Der vollständige GUI-Flashablauf wurde noch nicht auf einem zweiten Gerät getestet. Insbesondere die Moduswechsel zwischen Bootloader-Fastboot (vbmeta) und Fastbootd (system) müssen vor einer öffentlichen Installationsfreigabe validiert werden. Aktuell nur Diagnose und Dokumentation empfehlen.
 
-> **v0.6:** Fensterhöhe automatisch an die Bildschirmhöhe angepasst; Statusprotokoll nutzt den verfügbaren Platz und bleibt bei Fenstervergrößerung sichtbar.
-
 # TB311FU LineageOS Installer v0.6 (Windows)
 
 **Inoffizielles Community-Projekt – kein Lenovo- oder LineageOS-Produkt.**
