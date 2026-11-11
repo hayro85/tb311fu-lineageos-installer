@@ -1,0 +1,8 @@
+__pycache__/
+*.py[cod]
+*.img
+*.zip
+*.log
+*.auth
+*.bin
+.env
